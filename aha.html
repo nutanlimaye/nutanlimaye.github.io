@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+
+</head>
+
+<body>
+    <header id="common-header"></header>
+    <main>
+    <section class="content-section aha-section">
+  
+        <div style="text-align:center; margin-top: 1em; margin-bottom: 1em;">
+            <div style="
+                display:inline-block;
+                border:4px solid #ffcccb;
+                border-radius:18px;
+                padding:12px;
+                background:white;
+                box-shadow:0px 2px 5px rgba(0,0,0,0.08);
+            ">
+                <img
+                    src="aha-logo.png"
+                    alt="AHA logo"
+                    style="
+                        width:260px;
+                        max-width:260px;
+                        min-width:260px;
+                        height:auto;
+                        display:block;
+                        border-radius:10px;
+                    "
+                >
+            </div>
+        </div>
+  
+      <h2 class="aha-title">Algebraic Hardness and Applications</h2>
+      <p class="aha-subtitle">A research project supported by the <a href="https://www.carlsbergfondet.dk/det-har-vi-stoettet/cf25-1645/">Carlsberg Foundation</a>.</p>
+  
+      <h3>About the project</h3>
+      <p>
+        This project (AHA) explores the limits of computation: which problems can be solved efficiently and which resist efficient solutions. As many problems such as navigation on networks and training large learning models can be expressed in algebraic terms, AHA adapts this algebraic lens to understand computational limits and finds applications to improve algorithms that rely on random numbers.
+<br><br>
+Computation underpins daily life, from cryptography to machine learning. Yet we lack a deep understanding of its true power and limits. Uncovering these limits is one of the great scientific challenges of our time. AHA advances foundational knowledge with broad implications for efficient algorithms in the context of secure communication, data handling, and future technologies.
+
+<br><br>
+AHA combines mathematics and computer science to develop new theory on limits of algorithms. Given a computational task, I analyse whether it can be solved efficiently using several processors in parallel. This is done by modelling the problem using mathematical tools. The insights from this exploration are further used to design fast and reliable algorithms that do not rely on random numbers.
+      </p>
+      <h3>Members</h3>
+      <h3>Activities</h3>
+      <h3>News</h3>
+  
+      <!--<div class="aha-activity-grid">
+        <div class="aha-card">
+          <h3>Workshops</h3>
+          <p>Information about upcoming and past AHA-related workshops.</p>
+        </div>
+  
+        <div class="aha-card">
+          <h3>Talks and seminars</h3>
+          <p>Talks, seminar series, and invited lectures connected to AHA.</p>
+        </div>
+  
+        <div class="aha-card">
+          <h3>Visitors</h3>
+          <p>Research visits, collaborators, and project guests.</p>
+        </div>
+  
+        <div class="aha-card">
+          <h3>Publications</h3>
+          <p>Papers and preprints related to the project.</p>
+        </div>
+      </div>
+  
+      <h3>News</h3>
+      <ul class="aha-news-list">
+        <li><strong>2026:</strong> AHA project begins.</li>
+        <li><strong>2026:</strong> Project supported by the Carlsberg Foundation.</li>
+      </ul>-->
+  
+    </section>
+  </main>
+  <footer>
+    <p>Follow me:</p>
+    <div class="social-icons">
+        <a href="https://bsky.app/profile/nutanlimaye.bsky.social" target="_blank" class="mx-3">
+            <i class="fa-brands fa-bluesky fa-2x" style="color: #101010;"></i>
+        </a>
+        <a href="https://twitter.com/nutanlimaye" target="_blank" aria-label="Twitter">
+            <img src="https://img.icons8.com/ios-filled/30/000000/twitter.png" alt="Twitter">
+        </a>
+        <a href="https://podcastaddict.com/podcast/life-of-a-researcher/4111736" target="_blank" aria-label="Podcast">
+            <img src="https://img.icons8.com/ios-filled/30/000000/spotify.png" alt="Podcast Addict">
+        </a>
+        <a href="https://www.youtube.com/@nutan_limaye" target="_blank" class="mx-3">
+            <i class="fa-brands fa-youtube fa-2x" style="color: #101010;"></i>
+        </a>
+    </div>
+    <p><small style="color: grey;">This webpage is created with help from ChatGPT</small></p>
+</footer>
+
+<script>
+    // Load header.html dynamically
+    document.getElementById('common-header').innerHTML = '';
+    fetch('header.html')
+        .then(response => response.text())
+        .then(html => {
+            document.getElementById('common-header').innerHTML = html;
+        })
+        .catch(err => console.error('Error loading header:', err));
+
+    function toggleSection(sectionId) {
+        const section = document.getElementById(sectionId);
+        const url = `${sectionId}.html`;
+
+        if (section.scrollHeight > 0.4 * window.innerHeight) {
+        //if (section.scrollHeight > 10) {
+            window.location.href = url;
+        } else {
+            const expanded = section.classList.toggle('expanded');
+            document.querySelector(`.expand-button[onclick*='${sectionId}']`).textContent = expanded ? '-' : '+';
+        }
+    }
+</script>
+
+</body>
+</html>
