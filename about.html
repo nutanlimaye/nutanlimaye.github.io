@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="common-header"></header>
+    <main>
+        <section id="about" class="content-section full-page">
+            <h2>About</h2>
+            <p>This is the expanded About section with more details about yourself.</p>
+            <a href="index.html#about" class="back-link">Back</a>
+        </section>
+    </main>
+    <footer>
+        <p>Follow me:</p>
+        <div class="social-icons">
+            <a href="https://twitter.com/nutanlimaye" target="_blank" aria-label="Twitter">
+                <img src="https://img.icons8.com/ios-filled/30/000000/twitter.png" alt="Twitter">
+            </a>
+            <a href="https://bsky.app/profile/nutanlimaye.bsky.social" target="_blank" class="fa fa-bluesky mx-3" aria-label="BlueSky"></a>
+        </div>
+        <p><small color="grey">This webpage is made with help from ChatGPT</small></p>
+    </footer>
+    <script>
+        // Load header.html dynamically
+        document.getElementById('common-header').innerHTML = '';
+        fetch('header.html')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('common-header').innerHTML = html;
+            })
+            .catch(err => console.error('Error loading header:', err));
+    </script>
+</body>
+</html>

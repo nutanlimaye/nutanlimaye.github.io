@@ -1,0 +1,1562 @@
+[
+  {
+    "title": "New Bounds for the Ideal Proof System in Positive Characteristic",
+    "authors": [
+      "Amik Behera, Nutan Limaye, Varun Ramanathan, Srikanth Srinivasan"
+    ],
+    "year": "2025",
+    "venue": "52nd International Colloquium on Automata, Languages, and Programming, ICALP 2025, July 8-11, 2025, Aarhus, Denmark.",
+    "url": "https://doi.org/10.4230/LIPIcs.ICALP.2025.22",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },  
+  {
+    "title": "Algorithms for the Diverse-k-SAT Problem: The Geometry of Satisfying Assignments",
+    "authors": [
+      "Per Austrin, Ioana Bercea, Mayank Goswami, Nutan Limaye, Adarsh Srinivasan"
+    ],
+    "year": "2025",
+    "venue": "52nd International Colloquium on Automata, Languages, and Programming, ICALP 2025, July 8-11, 2025, Aarhus, Denmark.",
+    "url": "https://doi.org/10.4230/LIPIcs.ICALP.2025.14",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On The Closures of Monotone Algebraic Classes and Variants of the Determinant",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye"
+    ],
+    "year": "2024",
+    "venue": "Algorithmica",
+    "url": "https://doi.org/10.1007/s00453-024-01221-8",
+    "type": "journal",
+    "notes": "special issue for LATIN 2022",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2024",
+    "venue": "Commun. ACM",
+    "url": "https://doi.org/10.1145/3611094",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Power of Homogeneous Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2024",
+    "venue": "Proceedings of the 56th Annual ACM Symposium on Theory of Computing, STOC 2024, Vancouver, BC, Canada, June 24-28, 2024",
+    "url": "https://doi.org/10.1145/3618260.3649760",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Functional Lower Bounds in Algebraic Proofs: Symmetry, Lifting, and Barriers",
+    "authors": [
+      "Tuomas Hakoniemi and Nutan Limaye and Iddo Tzameret"
+    ],
+    "year": "2024",
+    "venue": "Proceedings of the 56th Annual ACM Symposium on Theory of Computing, STOC 2024, Vancouver, BC, Canada, June 24-28, 2024",
+    "url": "https://doi.org/10.1145/3618260.3649616",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the geometry of k-SAT solutions: what more can PPZ and Schöning's algorithms do?",
+    "authors": [
+      "Per Austrin and Ioana O. Bercea and Mayank Goswami and Nutan Limaye and Adarsh Srinivasan"
+    ],
+    "year": "2024",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2408.03465",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Functional Lower Bounds in Algebraic Proofs: Symmetry, Lifting, and Barriers",
+    "authors": [
+      "Tuomas Hakoniemi and Nutan Limaye and Iddo Tzameret"
+    ],
+    "year": "2024",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2412.20114",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the closures of monotone algebraic classes and variants of the determinant",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye"
+    ],
+    "year": "2024",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2024/021",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Functional Lower Bounds in Algebraic Proofs: Symmetry, Lifting, and Barriers",
+    "authors": [
+      "Tuomas Hakoniemi and Nutan Limaye and Iddo Tzameret"
+    ],
+    "year": "2024",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2024/079",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Schur Polynomials Do Not Have Small Formulas If the Determinant does not",
+    "authors": [
+      "Prasad Chaugule and Mrinal Kumar and Nutan Limaye and Chandra Kanta Mohapatra and Adrian She and Srikanth Srinivasan"
+    ],
+    "year": "2023",
+    "venue": "Comput. Complex.",
+    "url": "https://doi.org/10.1007/s00037-023-00236-x",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2023",
+    "venue": "38th Computational Complexity Conference, CCC 2023, July 17-20, 2023, Warwick, UK",
+    "url": "https://doi.org/10.4230/LIPIcs.CCC.2023.28",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2023",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2302.06984",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Power of Homogeneous Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2023",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2023/191",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2023",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2023/009",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A #SAT Algorithm for Small Constant-Depth Circuits with PTF gates",
+    "authors": [
+      "Swapnam Bajpai and Vaibhav Krishan and Deepanshu Kush and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2022",
+    "venue": "Algorithmica",
+    "url": "https://doi.org/10.1007/s00453-021-00915-7",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Guest Column: Lower Bounds Against Constant-Depth Algebraic Circuits",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2022",
+    "venue": "SIGACT News",
+    "url": "https://doi.org/10.1145/3544979.3544989",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planar Graph Isomorphism Is in Log-Space",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar and Thomas Thierauf and Fabian Wagner"
+    ],
+    "year": "2022",
+    "venue": "ACM Trans. Comput. Theory",
+    "url": "https://doi.org/10.1145/3543686",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Partial Derivative Method Applied to Lopsided Set-Multilinear Polynomials",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2022",
+    "venue": "37th Computational Complexity Conference, CCC 2022, July 20-23, 2022, Philadelphia, PA, USA",
+    "url": "https://doi.org/10.4230/LIPIcs.CCC.2022.32",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the VNP-Hardness of Some Monomial Symmetric Polynomials",
+    "authors": [
+      "Radu Curticapean and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2022",
+    "venue": "42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2022, December 18-20, 2022, IIT Madras, Chennai, India",
+    "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2022.16",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Closures of Monotone Algebraic Classes and Variants of the Determinant",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye"
+    ],
+    "year": "2022",
+    "venue": "LATIN 2022: Theoretical Informatics - 15th Latin American Symposium, Guanajuato, Mexico, November 7-11, 2022, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-031-20624-5_37",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Set-multilinear and non-commutative formula lower bounds for iterated matrix multiplication",
+    "authors": [
+      "Sébastien Tavenas and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2022",
+    "venue": "STOC '22: 54th Annual ACM SIGACT Symposium on Theory of Computing, Rome, Italy, June 20 - 24, 2022",
+    "url": "https://doi.org/10.1145/3519935.3520044",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the VNP-hardness of Some Monomial Symmetric Polynomials",
+    "authors": [
+      "Radu Curticapean and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2022",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2022/139",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Partial Derivative Method Applied to Lopsided Set-Multilinear Polynomials",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2022",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2022/090",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Fixed-Depth Size-Hierarchy Theorem for AC\\(^0\\)[\\(\\oplus\\)]  via the Coin Problem",
+    "authors": [
+      "Nutan Limaye and Karteek Sreenivasaiah and Srikanth Srinivasan and Utkarsh Tripathi and S. Venkitesh"
+    ],
+    "year": "2021",
+    "venue": "SIAM J. Comput.",
+    "url": "https://doi.org/10.1137/19M1276467",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Variants of Homomorphism Polynomials Complete for Algebraic Complexity Classes",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye and Aditya Varre"
+    ],
+    "year": "2021",
+    "venue": "ACM Trans. Comput. Theory",
+    "url": "https://doi.org/10.1145/3470858",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Variants of the Determinant Polynomial and the VP-Completeness",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye and Shourya Pandey"
+    ],
+    "year": "2021",
+    "venue": "Computer Science - Theory and Applications - 16th International Computer Science Symposium in Russia, CSR 2021, Sochi, Russia, June 28 - July 2, 2021, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-030-79416-3_3",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2021",
+    "venue": "62nd IEEE Annual Symposium on Foundations of Computer Science, FOCS 2021, Denver, CO, USA, February 7-10, 2022",
+    "url": "https://doi.org/10.1109/FOCS52979.2021.00083",
+    "type": "conference",
+    "notes": "Best Paper Award",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2021",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2021/081",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "New Non-FPT Lower Bounds for Some Arithmetic Formulas",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Sébastien Tavenas"
+    ],
+    "year": "2021",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2021/094",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Skew circuits of small width",
+    "authors": [
+      "Nikhil Balaji and Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2020",
+    "venue": "Theor. Comput. Sci.",
+    "url": "https://doi.org/10.1016/j.tcs.2017.03.013",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Schur Polynomials Do Not Have Small Formulas If the Determinant Doesn't",
+    "authors": [
+      "Prasad Chaugule and Mrinal Kumar and Nutan Limaye and Chandra Kanta Mohapatra and Adrian She and Srikanth Srinivasan"
+    ],
+    "year": "2020",
+    "venue": "35th Computational Complexity Conference, CCC 2020, July 28-31, 2020, Saarbrücken, Germany (Virtual Conference)",
+    "url": "https://doi.org/10.4230/LIPIcs.CCC.2020.14",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Variants of the Determinant polynomial and VP-completeness",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye and Shourya Pandey"
+    ],
+    "year": "2020",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2020/152",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower Bounds and PIT for Non-commutative Arithmetic Circuits with Restricted Parse Trees",
+    "authors": [
+      "Guillaume Lagarde and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2019",
+    "venue": "Comput. Complex.",
+    "url": "https://doi.org/10.1007/s00037-018-0171-9",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small-Depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication with Applications",
+    "authors": [
+      "Suryajith Chillara and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2019",
+    "venue": "SIAM J. Comput.",
+    "url": "https://doi.org/10.1137/18M1191567",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Variants of Homomorphism Polynomials Complete for Algebraic Complexity Classes",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye and Aditya Varre"
+    ],
+    "year": "2019",
+    "venue": "Computing and Combinatorics - 25th International Conference, COCOON 2019, Xi'an, China, July 29-31, 2019, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-030-26176-4_8",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "More on AC\\(^0\\)[\\(\\oplus\\)] and Variants of the Majority Function",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Utkarsh Tripathi"
+    ],
+    "year": "2019",
+    "venue": "39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2019, December 11-13, 2019, Bombay, India",
+    "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2019.22",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A #SAT Algorithm for Small Constant-Depth Circuits with PTF Gates",
+    "authors": [
+      "Swapnam Bajpai and Vaibhav Krishan and Deepanshu Kush and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2019",
+    "venue": "10th Innovations in Theoretical Computer Science Conference, ITCS 2019, January 10-12, 2019, San Diego, California, USA",
+    "url": "https://doi.org/10.4230/LIPIcs.ITCS.2019.8",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A fixed-depth size-hierarchy theorem for AC\\(^0\\)[\\(\\oplus\\)] via the coin problem",
+    "authors": [
+      "Nutan Limaye and Karteek Sreenivasaiah and Srikanth Srinivasan and Utkarsh Tripathi and S. Venkitesh"
+    ],
+    "year": "2019",
+    "venue": "Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing, STOC 2019, Phoenix, AZ, USA, June 23-26, 2019",
+    "url": "https://doi.org/10.1145/3313276.3316339",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Schur Polynomials do not have small formulas if the Determinant doesn't!",
+    "authors": [
+      "Prasad Chaugule and Mrinal Kumar and Nutan Limaye and Chandra Kanta Mohapatra and Adrian She and Srikanth Srinivasan"
+    ],
+    "year": "2019",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1911.12520",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Schur Polynomials do not have small formulas if the Determinant doesn't!",
+    "authors": [
+      "Prasad Chaugule and Mrinal Kumar and Nutan Limaye and Chandra Kanta Mohapatra and Adrian She and Srikanth Srinivasan"
+    ],
+    "year": "2019",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2019/172",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "More on AC\\(^0\\)[\\(\\oplus\\)]  and Variants of the Majority Function",
+    "authors": [
+      "Nutan Limaye and Srikanth Srinivasan and Utkarsh Tripathi"
+    ],
+    "year": "2019",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2019/133",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "authors": [
+      "Suryajith Chillara and Christian Engels and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "59th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2018, Paris, France, October 7-9, 2018",
+    "url": "https://doi.org/10.1109/FOCS.2018.00092",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
+    "authors": [
+      "Suryajith Chillara and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "45th International Colloquium on Automata, Languages, and Programming, ICALP 2018, July 9-13, 2018, Prague, Czech Republic",
+    "url": "https://doi.org/10.4230/LIPIcs.ICALP.2018.36",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "authors": [
+      "Suryajith Chillara and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "35th Symposium on Theoretical Aspects of Computer Science, STACS 2018, February 28 to March 3, 2018, Caen, France",
+    "url": "https://doi.org/10.4230/LIPIcs.STACS.2018.21",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "authors": [
+      "Suryajith Chillara and Christian Engels and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1804.02520",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The Coin Problem in Constant Depth: Sample Complexity and Parity Gates",
+    "authors": [
+      "Nutan Limaye and Karteek Sreenivasaiah and Srikanth Srinivasan and Utkarsh Tripathi and S. Venkitesh"
+    ],
+    "year": "2018",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1809.04092",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A #SAT Algorithm for Small Constant-Depth Circuits with PTF gates",
+    "authors": [
+      "Swapnam Bajpai and Vaibhav Krishan and Deepanshu Kush and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1809.05932",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A #SAT Algorithm for Small Constant-Depth Circuits with PTF gates",
+    "authors": [
+      "Swapnam Bajpai and Vaibhav Krishan and Deepanshu Kush and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2018/162",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Variants of Homomorphism Polynomials Complete for Algebraic Complexity Classes",
+    "authors": [
+      "Prasad Chaugule and Nutan Limaye and Aditya Varre"
+    ],
+    "year": "2018",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2018/135",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "authors": [
+      "Suryajith Chillara and Christian Engels and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2018",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2018/062",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The Coin Problem in Constant Depth: Sample Complexity and Parity gates",
+    "authors": [
+      "Nutan Limaye and Karteek Sreenivasaiah and Srikanth Srinivasan and Utkarsh Tripathi and S. Venkitesh"
+    ],
+    "year": "2018",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2018/157",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "An Exponential Lower Bound for Homogeneous Depth Four Arithmetic Formulas",
+    "authors": [
+      "Neeraj Kayal and Nutan Limaye and Chandan Saha and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "SIAM J. Comput.",
+    "url": "https://doi.org/10.1137/151002423",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The Shifted Partial Derivative Complexity of Elementary Symmetric Polynomials",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Meena Mahajan and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "Theory Comput.",
+    "url": "https://doi.org/10.4086/toc.2017.v013a009",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Maximum Rate of Networked Computation in a Capacitated Network",
+    "authors": [
+      "Pooja Vyavahare and Nutan Limaye and Ajit A. Diwan and D. Manjunath"
+    ],
+    "year": "2017",
+    "venue": "IEEE/ACM Trans. Netw.",
+    "url": "https://doi.org/10.1109/TNET.2017.2695578",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Unified Method for Placing Problems in Polylogarithmic Depth",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Michael Ludwig"
+    ],
+    "year": "2017",
+    "venue": "37th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2017, December 11-15, 2017, Kanpur, India",
+    "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2017.36",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower Bounds and PIT for Non-Commutative Arithmetic Circuits with Restricted Parse Trees",
+    "authors": [
+      "Guillaume Lagarde and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "42nd International Symposium on Mathematical Foundations of Computer Science, MFCS 2017, August 21-25, 2017 - Aalborg, Denmark",
+    "url": "https://doi.org/10.4230/LIPIcs.MFCS.2017.41",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "authors": [
+      "Suryajith Chillara and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1710.05481",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "authors": [
+      "Suryajith Chillara and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2017/156",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Unified Method for Placing Problems in Polylogarithmic Depth",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Michael Ludwig"
+    ],
+    "year": "2017",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2017/019",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower Bounds and PIT for Non-Commutative Arithmetic circuits with Restricted Parse Trees",
+    "authors": [
+      "Guillaume Lagarde and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2017",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2017/077",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower Bounds for Non-Commutative Skew Circuits",
+    "authors": [
+      "Nutan Limaye and Guillaume Malod and Srikanth Srinivasan"
+    ],
+    "year": "2016",
+    "venue": "Theory Comput.",
+    "url": "https://doi.org/10.4086/toc.2016.v012a012",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Space-Efficient Approximations for Subset Sum",
+    "authors": [
+      "Anna Gál and Jing-Tang Jang and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2016",
+    "venue": "ACM Trans. Comput. Theory",
+    "url": "https://doi.org/10.1145/2894843",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small Depth Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2016",
+    "venue": "ACM Trans. Comput. Theory",
+    "url": "https://doi.org/10.1145/2956229",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Optimal Embedding of Functions for In-Network Computation: Complexity Analysis and Algorithms",
+    "authors": [
+      "Pooja Vyavahare and Nutan Limaye and D. Manjunath"
+    ],
+    "year": "2016",
+    "venue": "IEEE/ACM Trans. Netw.",
+    "url": "https://doi.org/10.1109/TNET.2015.2445835",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Cost Register Automata for Nested Words",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Michael Ludwig"
+    ],
+    "year": "2016",
+    "venue": "Computing and Combinatorics - 22nd International Conference, COCOON 2016, Ho Chi Minh City, Vietnam, August 2-4, 2016, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-319-42634-1_47",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "An Almost Cubic Lower Bound for ΣΠΣ Circuits Computing a Polynomial in VP",
+    "authors": [
+      "Nikhil Balaji and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2016",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2016/143",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Isolation Lemma for Directed Reachability and NL vs. L",
+    "authors": [
+      "Vaibhav Krishan and Nutan Limaye"
+    ],
+    "year": "2016",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2016/155",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower Bounds for Depth-4 Formulas Computing Iterated Matrix Multiplication",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan"
+    ],
+    "year": "2015",
+    "venue": "SIAM J. Comput.",
+    "url": "https://doi.org/10.1137/140990280",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Skew Circuits of Small Width",
+    "authors": [
+      "Nikhil Balaji and Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2015",
+    "venue": "Computing and Combinatorics - 21st International Conference, COCOON 2015, Beijing, China, August 4-6, 2015, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-319-21398-9_16",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The Shifted Partial Derivative Complexity of Elementary Symmetric Polynomials",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Meena Mahajan and Srikanth Srinivasan"
+    ],
+    "year": "2015",
+    "venue": "Mathematical Foundations of Computer Science 2015 - 40th International Symposium, MFCS 2015, Milan, Italy, August 24-28, 2015, Proceedings, Part II",
+    "url": "https://doi.org/10.1007/978-3-662-48054-0_27",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Maximum Rate of Networked Computation in a Capacitated Network",
+    "authors": [
+      "Pooja Vyavahare and Nutan Limaye and D. Manjunath"
+    ],
+    "year": "2015",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1507.04234",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Value Automata with Filters",
+    "authors": [
+      "Michaël Cadilhac and Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2015",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1510.02393",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The shifted partial derivative complexity of Elementary Symmetric Polynomials",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Meena Mahajan and Srikanth Srinivasan"
+    ],
+    "year": "2015",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2015/118",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower bounds for non-commutative skew circuits",
+    "authors": [
+      "Nutan Limaye and Guillaume Malod and Srikanth Srinivasan"
+    ],
+    "year": "2015",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2015/022",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Information friction limits on computation",
+    "authors": [
+      "Pooja Vyavahare and Majid Mahzoon and Pulkit Grover and Nutan Limaye and D. Manjunath"
+    ],
+    "year": "2014",
+    "venue": "52nd Annual Allerton Conference on Communication, Control, and Computing, Allerton 2014, Allerton Park & Retreat Center, Monticello, IL, USA, September 30 - October 3, 2014",
+    "url": "https://doi.org/10.1109/ALLERTON.2014.7028441",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "An Exponential Lower Bound for Homogeneous Depth Four Arithmetic Formulas",
+    "authors": [
+      "Neeraj Kayal and Nutan Limaye and Chandan Saha and Srikanth Srinivasan"
+    ],
+    "year": "2014",
+    "venue": "55th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2014, Philadelphia, PA, USA, October 18-21, 2014",
+    "url": "https://doi.org/10.1109/FOCS.2014.15",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Super-polynomial lower bounds for depth-4 homogeneous arithmetic formulas",
+    "authors": [
+      "Neeraj Kayal and Nutan Limaye and Chandan Saha and Srikanth Srinivasan"
+    ],
+    "year": "2014",
+    "venue": "Symposium on Theory of Computing, STOC 2014, New York, NY, USA, May 31 - June 03, 2014",
+    "url": "https://doi.org/10.1145/2591796.2591823",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower bounds for depth 4 formulas computing iterated matrix multiplication",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan"
+    ],
+    "year": "2014",
+    "venue": "Symposium on Theory of Computing, STOC 2014, New York, NY, USA, May 31 - June 03, 2014",
+    "url": "https://doi.org/10.1145/2591796.2591824",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Efficient Embedding of Functions in Weighted Communication Networks",
+    "authors": [
+      "Pooja Vyavahare and Nutan Limaye and D. Manjunath"
+    ],
+    "year": "2014",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1401.2518",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Skew Circuits of Small Width",
+    "authors": [
+      "Nikhil Balaji and Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2014",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2014/183",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Space-Efficient Approximations for Subset Sum",
+    "authors": [
+      "Anna Gál and Jing-Tang Jang and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2014",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2014/180",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "An Exponential Lower Bound for Homogeneous Depth Four Arithmetic Formulas",
+    "authors": [
+      "Neeraj Kayal and Nutan Limaye and Chandan Saha and Srikanth Srinivasan"
+    ],
+    "year": "2014",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2014/005",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming algorithms for language recognition problems",
+    "authors": [
+      "Ajesh Babu and Nutan Limaye and Jaikumar Radhakrishnan and Girish Varma"
+    ],
+    "year": "2013",
+    "venue": "Theor. Comput. Sci.",
+    "url": "https://doi.org/10.1016/j.tcs.2012.12.028",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "DLOGTIME Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2013",
+    "venue": "IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2013, December 12-14, 2013, Guwahati, India",
+    "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2013.189",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small Depth Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2013",
+    "venue": "Mathematical Foundations of Computer Science 2013 - 38th International Symposium, MFCS 2013, Klosterneuburg, Austria, August 26-30, 2013. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-40313-2_52",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small Depth Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2013",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1307.4897",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Lower bounds for depth 4 formulas computing iterated matrix multiplication",
+    "authors": [
+      "Hervé Fournier and Nutan Limaye and Guillaume Malod and Srikanth Srinivasan"
+    ],
+    "year": "2013",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2013/100",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Small Depth Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2013",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2013/102",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Counting Paths in VPA Is Complete for #NC\\(^1\\)",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2012",
+    "venue": "Algorithmica",
+    "url": "https://doi.org/10.1007/s00453-011-9501-x",
+    "type": "journal",
+    "notes": "Special issue for COCOON 2010",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "The Complexity of Unary Subset Sum",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Karteek Sreenivasaiah"
+    ],
+    "year": "2012",
+    "venue": "Computing and Combinatorics - 18th Annual International Conference, COCOON 2012, Sydney, Australia, August 20-22, 2012. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-32241-9_39",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming algorithms for recognizing nearly well-parenthesized expressions",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2012",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1206.0206",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "In-Network Estimation of Frequency Moments",
+    "authors": [
+      "Pooja Vyavahare and Nutan Limaye and D. Manjunath"
+    ],
+    "year": "2012",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1210.6134",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "DLOGTIME-Proof Systems",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye"
+    ],
+    "year": "2012",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2012/186",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming Algorithms for Recognizing Nearly Well-Parenthesized Expressions",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Srikanth Srinivasan"
+    ],
+    "year": "2011",
+    "venue": "Mathematical Foundations of Computer Science 2011 - 36th International Symposium, MFCS 2011, Warsaw, Poland, August 22-26, 2011. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-22993-0_38",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming algorithms for language recognition problems",
+    "authors": [
+      "Ajesh Babu and Nutan Limaye and Jaikumar Radhakrishnan and Girish Varma"
+    ],
+    "year": "2011",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/1104.0848",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Longest Paths in Planar DAGs in Unambiguous Log-Space",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Prajakta Nimbhorkar"
+    ],
+    "year": "2010",
+    "venue": "Chic. J. Theor. Comput. Sci.",
+    "url": "http://cjtcs.cs.uchicago.edu/articles/CATS2009/5/contents.html",
+    "type": "journal",
+    "notes": "special issue for CATS 2009",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Arithmetizing Classes Around NC\\(^1\\) and L",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and B. V. Raghavendra Rao"
+    ],
+    "year": "2010",
+    "venue": "Theory Comput. Syst.",
+    "url": "https://doi.org/10.1007/s00224-009-9233-3",
+    "type": "journal",
+    "notes": "special issue for STACS 2007",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planarity, Determinants, Permanents, and (Unique) Matchings",
+    "authors": [
+      "Samir Datta and Raghav Kulkarni and Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2010",
+    "venue": "ACM Trans. Comput. Theory",
+    "url": "https://doi.org/10.1145/1714450.1714453",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Counting Paths in VPA Is Complete for #NC\\(^1\\)",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2010",
+    "venue": "Computing and Combinatorics, 16th Annual International Conference, COCOON 2010, Nha Trang, Vietnam, July 19-21, 2010. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-14031-0_7",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming Algorithms for Some Problems in Log-Space",
+    "authors": [
+      "Ajesh Babu and Nutan Limaye and Girish Varma"
+    ],
+    "year": "2010",
+    "venue": "Theory and Applications of Models of Computation, 7th Annual Conference, TAMC 2010, Prague, Czech Republic, June 7-11, 2010. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-13562-0_10",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Streaming algorithms for some problems in log-space",
+    "authors": [
+      "Ajesh Babu and Nutan Limaye and Girish Varma"
+    ],
+    "year": "2010",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2010/094",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Counting paths in VPA is complete for #NC\\(^1\\)",
+    "authors": [
+      "Andreas Krebs and Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2010",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2010/103",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Upper Bounds for Monotone Planar Circuit Value and Variants",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Jayalal Sarma"
+    ],
+    "year": "2009",
+    "venue": "Comput. Complex.",
+    "url": "https://doi.org/10.1007/s00037-009-0265-5",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Complexity of Membership and Counting in Height-Deterministic Pushdown Automata",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Antoine Meyer"
+    ],
+    "year": "2009",
+    "venue": "J. Autom. Lang. Comb.",
+    "url": "https://doi.org/10.25596/jalc-2009-211",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Longest Paths in Planar DAGs in Unambiguous Logspace",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Prajakta Nimbhorkar"
+    ],
+    "year": "2009",
+    "venue": "Theory of Computing 2009, Fifteenth Computing: The Australasian Theory Symposium, CATS 2009, Wellington, New Zealand, January 2009",
+    "url": "http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV94Limaye.html",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planar Graph Isomorphism is in Log-Space",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar and Thomas Thierauf and Fabian Wagner"
+    ],
+    "year": "2009",
+    "venue": "Proceedings of the 24th Annual IEEE Conference on Computational Complexity, CCC 2009, Paris, France, 15-18 July 2009",
+    "url": "https://doi.org/10.1109/CCC.2009.16",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Membership Testing: Removing Extra Stacks from Multi-stack Pushdown Automata",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2009",
+    "venue": "Language and Automata Theory and Applications, Third International Conference, LATA 2009, Tarragona, Spain, April 2-8, 2009. Proceedings",
+    "url": "https://doi.org/10.1007/978-3-642-00982-2_42",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planar Graph Isomorphism is in Log-Space",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar and Thomas Thierauf and Fabian Wagner"
+    ],
+    "year": "2009",
+    "venue": "Algebraic Methods in Computational Complexity, 11.10. - 16.10.2009",
+    "url": "http://drops.dagstuhl.de/opus/volltexte/2010/2416/",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planar Graph Isomorphism is in Log-space",
+    "authors": [
+      "Fabian Wagner and Samir Datta and Nutan Limaye and Prajakta Nimbhorkar and Thomas Thierauf"
+    ],
+    "year": "2009",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/report/2009/052",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On the Complexity of Membership and Counting in Height-Deterministic Pushdown Automata",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Antoine Meyer"
+    ],
+    "year": "2008",
+    "venue": "Computer Science - Theory and Applications, Third International Computer Science Symposium in Russia, CSR 2008, Moscow, Russia, June 7-12, 2008, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-540-79709-8_25",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "3-connected Planar Graph Isomorphism is in Log-space",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar"
+    ],
+    "year": "2008",
+    "venue": "IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2008, December 9-11, 2008, Bangalore, India",
+    "url": "https://doi.org/10.4230/LIPIcs.FSTTCS.2008.1749",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Longest paths in Planar DAGs in Unambiguous Logspace",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Prajakta Nimbhorkar"
+    ],
+    "year": "2008",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/0802.1699",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "3-connected Planar Graph Isomorphism is in Log-space",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar"
+    ],
+    "year": "2008",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/0806.1041",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "A Log-space Algorithm for Canonization of Planar Graphs",
+    "authors": [
+      "Samir Datta and Nutan Limaye and Prajakta Nimbhorkar and Thomas Thierauf and Fabian Wagner"
+    ],
+    "year": "2008",
+    "venue": "CoRR",
+    "url": "http://arxiv.org/abs/0809.2319",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Planarity, Determinants, Permanents, and (Unique) Matchings",
+    "authors": [
+      "Samir Datta and Raghav Kulkarni and Nutan Limaye and Meena Mahajan"
+    ],
+    "year": "2007",
+    "venue": "Computer Science - Theory and Applications, Second International Symposium on Computer Science in Russia, CSR 2007, Ekaterinburg, Russia, September 3-7, 2007, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-540-74510-5_14",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Arithmetizing Classes Around NC\\(^1\\) and L",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and B. V. Raghavendra Rao"
+    ],
+    "year": "2007",
+    "venue": "STACS 2007, 24th Annual Symposium on Theoretical Aspects of Computer Science, Aachen, Germany, February 22-24, 2007, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-540-70918-3_41",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Arithmetizing classes around NC\\(^1\\) and L",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and B. V. Raghavendra Rao"
+    ],
+    "year": "2007",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/eccc-reports/2007/TR07-087/index.html",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Evaluating Monotone Circuits on Cylinders, Planes and Tori",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Jayalal Sarma"
+    ],
+    "year": "2006",
+    "venue": "STACS 2006, 23rd Annual Symposium on Theoretical Aspects of Computer Science, Marseille, France, February 23-25, 2006, Proceedings",
+    "url": "https://doi.org/10.1007/11672142_54",
+    "type": "conference",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "Evaluating Monotone Circuits on Cylinders, Planes and Tori",
+    "authors": [
+      "Nutan Limaye and Meena Mahajan and Jayalal Sarma"
+    ],
+    "year": "2006",
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "url": "https://eccc.weizmann.ac.il/eccc-reports/2006/TR06-009/index.html",
+    "type": "other",
+    "notes": "",
+    "student": "",
+    "tags": []
+  }
+]

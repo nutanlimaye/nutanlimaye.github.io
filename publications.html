@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Publications</title>
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- MathJax for LaTeX rendering -->
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <style>
+    .filter-bar {
+      margin-bottom: 1rem;
+    }
+
+    .filter-button {
+      background-color: #f0f0f0;
+      border: none;
+      padding: 0.5rem 1rem;
+      margin-right: 0.5rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.2s;
+    }
+
+    .filter-button.active {
+      background-color: #007bff;
+      color: white;
+    }
+
+    #publications-list li {
+      margin-bottom: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <header id="common-header"></header>
+
+  <main>
+    <section id="publications" class="content-section">
+      <h2>Publications</h2>
+
+      <div class="filter-bar">
+        <button class="filter-button active" data-type="all">📚 All</button>
+        <button class="filter-button" data-type="journal">📘 Journals</button>
+        <button class="filter-button" data-type="conference">🎤 Conferences</button>
+      </div>
+
+      <ul id="publications-list">
+        <!-- Publications will be inserted here -->
+      </ul>
+    </section>
+  </main>
+
+<footer>
+    <p>Follow me:</p>
+    <div class="social-icons">
+        <a href="https://bsky.app/profile/nutanlimaye.bsky.social" target="_blank" class="mx-3">
+            <i class="fa-brands fa-bluesky fa-2x" style="color: #101010;"></i>
+        </a>
+        <a href="https://twitter.com/nutanlimaye" target="_blank" aria-label="Twitter">
+            <img src="https://img.icons8.com/ios-filled/30/000000/twitter.png" alt="Twitter">
+        </a>
+        <a href="https://podcastaddict.com/podcast/life-of-a-researcher/4111736" target="_blank" aria-label="Podcast">
+            <img src="https://img.icons8.com/ios-filled/30/000000/spotify.png" alt="Podcast Addict">
+        </a>
+        <a href="https://www.youtube.com/@nutan_limaye" target="_blank" class="mx-3">
+            <i class="fa-brands fa-youtube fa-2x" style="color: #101010;"></i>
+        </a>
+    </div>
+    <p><small style="color: grey;">This webpage is created with help from ChatGPT</small></p>
+</footer>
+
+  <!-- Load header -->
+  <script>
+    fetch('header.html')
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('common-header').innerHTML = html;
+      })
+      .catch(err => console.error('Error loading header:', err));
+  </script>
+
+  <!-- Load and filter publications -->
+  <script>
+    let allPublications = [];
+
+    async function fetchLocalPublications() {
+      const response = await fetch('publications-standard.json');
+      return await response.json();
+    }
+
+    function displayPublications(publications) {
+      const list = document.getElementById('publications-list');
+      list.innerHTML = '';
+
+      publications.forEach(pub => {
+        const item = document.createElement('li');
+        item.classList.add(pub.type); // journal, conference
+
+        let html = `
+          <strong><a href="${pub.url}" target="_blank">${pub.title}</a></strong><br>
+          <em>Authors: ${pub.authors.join(', ')}</em><br>
+          <em>${pub.venue}, ${pub.year}</em>
+        `;
+
+        if (pub.notes) {
+          html += `<br><span style="color: green;">⭐ ${pub.notes}</span>`;
+        }
+
+        if (pub.student) {
+          html += `<br><span style="color: purple;">👩‍🎓 Co-authored with: ${pub.student}</span>`;
+        }
+
+        item.innerHTML = html;
+        list.appendChild(item);
+      });
+
+      // Re-render LaTeX math
+      if (window.MathJax) {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+      }
+    }
+
+    function setupFilters() {
+      const buttons = document.querySelectorAll('.filter-button');
+      buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          buttons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          const type = btn.getAttribute('data-type');
+          if (type === 'all') {
+            displayPublications(allPublications);
+          } else {
+            displayPublications(allPublications.filter(p => p.type === type));
+          }
+        });
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      allPublications = await fetchLocalPublications();
+      displayPublications(allPublications);
+      setupFilters();
+    });
+  </script>
+</body>
+</html>
