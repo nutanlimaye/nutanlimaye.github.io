@@ -1,43 +1,43 @@
 [
+    {
+    "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
+    "authors": [
+      "Hervé Fournier, Nutan Limaye, Guillaume Malod, Srikanth Srinivasan, Sébastien Tavenas"
+    ],
+    "year": "2026",
+    "venue": "Computational Complexity, Volume 35, Issue 1.",
+    "url": "https://doi.org/10.1007/s00037-025-00283-6",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
   {
-  "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
-  "authors": [
-    "Hervé Fournier, Nutan Limaye, Guillaume Malod, Srikanth Srinivasan, Sébastien Tavenas"
-  ],
-  "year": "2026",
-  "venue": "Computational Complexity, Volume 35, Issue 1.",
-  "url": "https://doi.org/10.1007/s00037-025-00283-6",
-  "type": "journal",
-  "notes": "",
-  "student": "",
-  "tags": []
-},
-{
-  "title": "Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits",
-  "authors": [
-    "Nutan Limaye, Srikanth Srinivasan, Sébastien Tavenas"
-  ],
-  "year": "2025",
-  "venue": "Journal of the ACM, Volume 72, Issue 4.",
-  "url": "https://doi.org/10.1145/3734215",
-  "type": "journal",
-  "notes": "",
-  "student": "",
-  "tags": []
-},
-{
-  "title": "On Closure Properties of Read-Once Oblivious Algebraic Branching Programs",
-  "authors": [
-    "Robert Andrews, Jules Armand, Prateek Dwivedi, Magnus Rahbek Dalgaard Hansen, Nutan Limaye, Srikanth Srinivasan, Sébastien Tavenas"
-  ],
-  "year": "2026",
-  "venue": "17th Innovations in Theoretical Computer Science Conference, ITCS 2026, Bocconi University, Milan, Italy, January 27-30, 2026.",
-  "url": "https://doi.org/10.4230/LIPIcs.ITCS.2026.9",
-  "type": "conference",
-  "notes": "",
-  "student": "Prateek Dwivedi",
-  "tags": []
-}
+    "title": "Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits",
+    "authors": [
+      "Nutan Limaye, Srikanth Srinivasan, Sébastien Tavenas"
+    ],
+    "year": "2025",
+    "venue": "Journal of the ACM, Volume 72, Issue 4.",
+    "url": "https://doi.org/10.1145/3734215",
+    "type": "journal",
+    "notes": "",
+    "student": "",
+    "tags": []
+  },
+  {
+    "title": "On Closure Properties of Read-Once Oblivious Algebraic Branching Programs",
+    "authors": [
+      "Robert Andrews, Jules Armand, Prateek Dwivedi, Magnus Rahbek Dalgaard Hansen, Nutan Limaye, Srikanth Srinivasan, Sébastien Tavenas"
+    ],
+    "year": "2026",
+    "venue": "17th Innovations in Theoretical Computer Science Conference, ITCS 2026, Bocconi University, Milan, Italy, January 27-30, 2026.",
+    "url": "https://doi.org/10.4230/LIPIcs.ITCS.2026.9",
+    "type": "conference",
+    "notes": "",
+    "student": "Prateek Dwivedi",
+    "tags": []
+  }
   {
     "title": "New Bounds for the Ideal Proof System in Positive Characteristic",
     "authors": [
