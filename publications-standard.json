@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": "Towards Optimal Depth-Reductions for Algebraic Formulas",
     "authors": [
       "Hervé Fournier, Nutan Limaye, Guillaume Malod, Srikanth Srinivasan, Sébastien Tavenas"
@@ -35,7 +35,6 @@
     "url": "https://doi.org/10.4230/LIPIcs.ITCS.2026.9",
     "type": "conference",
     "notes": "",
-    "student": "Prateek Dwivedi",
     "tags": []
   },
   {
